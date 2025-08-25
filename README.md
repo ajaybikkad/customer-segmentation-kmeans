@@ -39,13 +39,4 @@ Dataset source: [Mall Customers Dataset (Kaggle)](https://www.kaggle.com/dataset
 - `Mall_Customers.csv` → Dataset used.  
 - `README.md` → Project documentation.  
 
-## 📸 Sample Output
-*(You can add screenshots of cluster plots here after running the notebook)*
 
----
-
-### ✅ How to Run
-1. Clone this repo or download the files.  
-2. Open `Customer_Segmentation_KMeans.ipynb` in Jupyter Notebook.  
-3. Make sure `Mall_Customers.csv` is in the same folder.  
-4. Run all cells to reproduce the results.
